@@ -1,0 +1,9 @@
+[submodule "AIObservability-Monitoring_InnerAI"]
+	path = AIObservability-Monitoring_InnerAI
+	url = https://github.com/CanadaDevOpsCommunity2025/AIObservability-Monitoring_InnerAI.git
+[submodule "GenA11yHelper"]
+	path = GenA11yHelper
+	url = https://github.com/CanadaDevOpsCommunity2025/GenA11yHelper.git
+[submodule "InsightAI_Minions"]
+	path = InsightAI_Minions
+	url = https://github.com/CanadaDevOpsCommunity2025/InsightAI_Minions.git
